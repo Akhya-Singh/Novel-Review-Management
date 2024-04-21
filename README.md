@@ -48,10 +48,6 @@ Replace `"your-username"` and `"your-password"` with your MySQL username and pas
 
 Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - The development team: Aryan Shambharkar, Akhya Singh, and Manan Variya.
