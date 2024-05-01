@@ -19,7 +19,7 @@ This is a Java application that allows users to store and manage reviews for nov
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/novel-review-management.git
+git clone https://github.com/Akhya-Singh/Novel-Review-Management-System.git
 ```
 
 2. Set up the MySQL database:
